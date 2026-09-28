@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: 'Aplicativo de Ensino da Matemática '
 title: ''
 labels: ''
 assignees: ''
