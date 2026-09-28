@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: 'Aplicativo de Ensino da Matemática '
-title: ''
+title: 'Aplicativo de Ensino da Matemática'
 labels: ''
-assignees: ''
+assignees: 'Mônica Diglianne Paes de Barros Costa e Thiago Paes de Barros Costa'
 
 ---
 
